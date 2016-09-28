@@ -7,7 +7,7 @@ url: http://tbates.github.io/Seminar_in_Personality/
 # Name of your blog (this will show up at the top of your page and in the RSS feed)
 name: Advanced review-based course in Personality
 # Short description (goes below the title; it will also be used in the RSS feed)
-description: Personality: Approaches, advances, and important ideas
+description: Personality. Approaches, advances, and important ideas.
 
 # Uncomment if you are planning to run the blog in a subdirectory
 # Note - if you enable this, use jekyll --baseurl '/' to view locally
