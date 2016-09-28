@@ -7,35 +7,72 @@ categories: intro
 ---
 
 <a name="top"></a>
-### Course Outline
+## Course Outline
 
-Overview of the next 5 weeks of [MV stats](http://www.drps.ed.ac.uk/15-16/dpt/cxpsyl11054.htm)
+Overview of the next semester of [Seminar in Personality](http://www.drps.ed.ac.uk/current/dpt/cxpsyl11075.htm)
 
-1. Factor analysis
-2. Structural Equation Modelling
-3. CFA
-4. Path Analysis
-5. Latent variable modeling
+### Course Summary
+This is a core course in the MSc [Psychology of Individual Differences](http://www.drps.ed.ac.uk/current/dpt/ptmscpychi1f.htm)
 
-### Week
-1. Introduces you to the idea of latent variables, the concept of a path diagram, and also how to do a factor analysis in R.
-	* Show how the EFA needs to fix latent variances at 1 and covariances at 0, and fix the upper right triangle of whatever matrix contains the latent loadings. Show what rotation does (R is great for that - just pull the loadings matrix and throw in at promax() or varimax(). Introduce indeterminacy by talking about how the rotations do not differ in fit. Then the next week convert that same model to CFA. Use a real data set so it has a purpose.
-	* **Tutorial**: Specific SEM models
-2. Introduces.
-	* In week two we will link these ideas to the modelling you already know by building the equivalent of `lm(y ~ x + z)` in `umx` package. This leverages two ideas you already understand: Factor analysis and linear models/ANOVA.</li>
-			<em>Curb your enthusiasm</em>: By week 2 you should understand what boxes, circles, triangles, diamonds, and straight and curved arrows are. 
-	* **Tutorial**: Specific SEM models
-3. Introduces.
-	* The idea of causality, testing (and, critically, mxCompare()-ing) ideas. And use real tasks, such as handling a ordinal outcomes as thresholded normals.
-	* **Tutorial**: Specific SEM models
-4. Introduces
-	* 
-	* **Tutorial**: Specific SEM models
-5. Introduces.
-	* 
-	* **Tutorial**: Specific SEM models
+[my PID intro](https://www.dropbox.com/s/09y9jf8naikr2h8/class%202014-15%20intro%20to%20MSc%20PID.pptx?dl=0)
 
-If it was me in a limited course, I’d spend the time showing how to solve practical problems, and record a compulsory to watch video lecture deriving modelling concepts from first principles (RAM, Lisrel, general matrix models, LS, FIML etc).
+* Meeting times are shown in the [DRPS link](http://www.drps.ed.ac.uk/current/dpt/ptmscpychi1f.htm)
+* Assessment deadline is 15 April (returned < 10 May)
+* [https://www.dropbox.com/s/w58p57pkze6zv23/Course%20guide%20db.docx Course guide] (word)
+* [https://www.dropbox.com/s/bpi3csb2dzfjt9u/Major%20Assessment%20Research%20proposal.docx?dl=0 Assignment guide] (word)
 
-Book: I like John Loehlin
-My paper:
+### Structure of the course
+
+| Week       | Task                                                                                                                                      |
+|:-----------|:------------------------------------------------------------------------------------------------------------------------------------------|
+| Week 1     | Overview                                                                                                                                  |
+| Week 2     | Bring us paper/we give example [e.g](https://www.dropbox.com/s/6funbs4nlj4egcx/2012.02.03%20Does%20school%20make%20you%20smarter%3F.pptx) |
+| Week 3     | Break                                                                                                                                     |
+| Weeks 4-6  | Talks                                                                                                                                     |
+| Week 7     | Help with grant review/big assessment item                                                                                                |
+| Weeks 8-10 | Talks                                                                                                                                     |
+| Week 11    | Overview, wrap-up                                                                                                                         |
+
+### Assessment
+
+Three elements contribute to your mark: Your presentation (10% for the summary and 10% for your talk), your general participation (10%), and the final paper (a grant proposal) (70%).
+
+**Who's assigned to what**
+When you choose a topic, please [edit this google doc](https://docs.google.com/document/d/1-fig7hfRKLebcHXXgjzmayVlHjdZ4h5P-S5x-jXVTeI/edit#). If you can't, ask tim.bates@ed.ac.uk for help.
+
+
+### Weekly discussion
+Each week one of you will lead a discussion. You will need to choose one or more papers to discuss. You should then communicate these to the course organizers who will determine whether they are suitable. You will then write a 1-2 page summary using the “In Course Presentation” guide. Finally, the week before your presentation you will email the pdfs to us. On the week of your presentation you will hand out your summary, walk people through the summaries, and lead the discussion that follows. 
+We will aim to have two presentations each week. The discussion of the paper or papers you choose will therefore take approximately one hour. 
+Below we list several “big topics” and the major papers that have contributed to the scientific debate on these topics. You might well pick one of these papers for your topic. Alternatively, you can use these as a guide to find recent papers that address the topic.
+ 
+* [The trait-situation debate]()
+* [Personality structure]()
+* [Genetic and familial influences on personality]()
+* [Evolutionary psychology of personality]()
+* [Personality in non-human animals]()
+* [Personality influences on health & well-being]()
+* [Psychopathology]()
+* [Effortful control]()
+* [Personality and culture]()
+* [Personality change and development]()
+* [Philosophical ideas about identity]()
+* [Measurement of personality]()
+* [Alternatives to traits]()
+
+### Journals/resources
+
+* [Personality and Individual Differences](https://en.wikipedia.org/wiki/Personality_and_Individual_Differences)
+* [Journal of Personality and Social Psychology](https://en.wikipedia.org/wiki/Journal_of_Personality_and_Social_Psychology)
+* [Journal of Personality](https://en.wikipedia.org/wiki/Journal_of_Personality)
+* [Journal of Research in Personality](https://en.wikipedia.org/wiki/Journal_of_Research_in_Personality)
+* [Behavioral and Brain Sciences](https://en.wikipedia.org/wiki/Behavioral_and_Brain_Sciences)
+* [Behavior Genetics](https://en.wikipedia.org/wiki/Behavior_Genetics)
+* [European Journal of Personality](https://en.wikipedia.org/wiki/European_Journal_of_Personality)
+* [Personality and Social Psychology Bulletin](https://en.wikipedia.org/wiki/Personality_and_Social_Psychology_Bulletin)
+* [Differential journals](https://en.wikipedia.org/wiki/Category:Differential_psychology_journals)
+* [Personality journal list](https://en.wikipedia.org/wiki/Category:Personality_journals more)
+
+And
+* [Datasets you can use!](datasets)
+
