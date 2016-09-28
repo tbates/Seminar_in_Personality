@@ -1,5 +1,5 @@
-# Multivariate-Stats-Course
+# Seminar in Personality
 
-Multivariate statistics lectures covering Factor analysis, SEM, and multiple regression. [Lectures located here](http://tbates.github.io/Multivariate-Stats-Course)
+An advanced seminar course in Personality. This is a core course in the Edinburgh MSc in Individual Differences. [Lectures located here](http://tbates.github.io/Seminar_in_Personality)
 
-[Course Degree entry](http://www.drps.ed.ac.uk/16-17/dpt/cxpsyl11054.htm)
+[Course Degree entry](http://www.drps.ed.ac.uk/current/dpt/cxpsyl11054.htm)
