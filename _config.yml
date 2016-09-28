@@ -11,7 +11,7 @@ description: Personality. Approaches, advances, and important ideas.
 
 # Uncomment if you are planning to run the blog in a subdirectory
 # Note - if you enable this, use jekyll --baseurl '/' to view locally
-# baseurl: /
+baseurl: http://tbates.github.io/Seminar_in_Personality/
 
 markdown: kramdown
 
