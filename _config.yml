@@ -8,11 +8,11 @@ kramdown:
   input: GFM
   syntax_highlighter: rouge
 
+url: "https://tbates.github.io/Seminar_in_Personality"
 repository: "tbates/Seminar_in_Personality"
-# url: "https://tbates.github.io/Seminar_in_Personality"
-url: "https://tbates.github.io"
-# Note - if you enable this, use jekyll --baseurl '/' to view locally
+# url: "https://tbates.github.io"
 baseurl: "/Seminar_in_Personality"
+# Note - if you enable this, use jekyll --baseurl '/' to view locally
 
 # Name of your blog (this will show up at the top of your page and in the RSS feed)
 name: "Advanced seminar-based course in Personality"
