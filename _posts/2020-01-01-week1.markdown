@@ -3,7 +3,7 @@ layout: post
 title: "Week 1: Factor Analysis"
 date: 2020-01-01 00:01
 comments: true
-categories: intro
+categories: lecture
 ---
 
 <a name="top"></a>

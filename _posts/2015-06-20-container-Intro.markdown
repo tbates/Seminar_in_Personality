@@ -3,7 +3,7 @@ layout: post
 title: "Collected Introductory Multivariate pages"
 date: 2015-06-20 00:00
 comments: true
-categories: container
+categories: lecture
 ---
 
 <a name="top"></a>
