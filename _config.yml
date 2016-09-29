@@ -8,9 +8,9 @@ kramdown:
   input: GFM
   syntax_highlighter: rouge
 
-url: "https://tbates.github.io/Seminar_in_Personality"
 repository: "tbates/Seminar_in_Personality"
-# url: "https://tbates.github.io"
+# url: "https://tbates.github.io/Seminar_in_Personality"
+url: "https://tbates.github.io"
 baseurl: "/Seminar_in_Personality"
 # Note - if you enable this, use jekyll --baseurl '/' to view locally
 
