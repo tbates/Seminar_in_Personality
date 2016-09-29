@@ -1,25 +1,23 @@
+# url for [snaptortoise](https://github.com/snaptortoise/jekyll-rss-feeds)
+
 gems:
   - jekyll-feed
-
-# url for [snaptortoise](https://github.com/snaptortoise/jekyll-rss-feeds)
-url: https://tbates.github.io/Seminar_in_Personality/
-
-# Name of your blog (this will show up at the top of your page and in the RSS feed)
-name: Advanced review-based course in Personality
-# Short description (goes below the title; it will also be used in the RSS feed)
-description: Personality. Approaches, advances, and important ideas.
-
-# Uncomment if you are planning to run the blog in a subdirectory
-# Note - if you enable this, use jekyll --baseurl '/' to view locally
-baseurl: https://tbates.github.io/Seminar_in_Personality/
-
 markdown: kramdown
 
 kramdown:
   input: GFM
   syntax_highlighter: rouge
 
-# markdown: redcarpet
-# redcarpet:
-  # extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data", "footnotes"]
+repository: "tbates/Seminar_in_Personality"
+# url: "https://tbates.github.io/Seminar_in_Personality"
+url: "https://tbates.github.io"
+# Note - if you enable this, use jekyll --baseurl '/' to view locally
+baseurl: "/Seminar_in_Personality"
+
+# Name of your blog (this will show up at the top of your page and in the RSS feed)
+name: "Advanced seminar-based course in Personality"
+# Short description (goes below the title; it will also be used in the RSS feed)
+description: "Personality. Approaches, advances, and important ideas."
+
+
 
