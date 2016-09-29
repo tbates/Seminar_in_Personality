@@ -6,22 +6,15 @@
 		{% feed_meta %}
         <title>{{ page.title }}</title>
         <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-        <!-- syntax highlighting CSS -->
-        <!-- <link rel="stylesheet" href="/css/syntax.css"> -->
-        <!-- Custom CSS -->
-        <!-- <link rel="stylesheet" href="/css/main.css"> -->
 		<link rel="stylesheet" href="/stylesheets/styles.css">
     	<link rel="stylesheet" href="/stylesheets/pygment_trac.css">
     	<link rel="stylesheet" href="/stylesheets/sidebox.css">
-		<!--[if lt IE 9]>
-		<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-		<![endif]-->
     </head>
 
     <body>
         <div class="site">
           <div class="header">
-            <h1 class="title"><a href="/">{{ site.name }}</a></h1>
+            <h1 class="title"><a href="{{ site.baseurl }}">{{ site.name }}</a></h1>
             <!-- <a class="extra" href="/">home</a> -->
           </div>
           {{ content }}
@@ -32,25 +25,24 @@
                 timothy.c.bates@gmail.com
               </p>
               <p>
-		<a href="https://github.com/tbates">github/tbates</a><br />
+				  <a href="https://github.com/tbates">github/tbates</a><br />
                 <a href="https://twitter.com/timothycbates">twitter/timothycbates</a><br />
                 <a href="http://scholar.google.com/citations?user=5MDWBs8AAAAJ&hl=en">google scholar</a><br />
                 <a href="http://www.ed.ac.uk/profile/timothy-bates">Edinburgh University</a><br />
               </p>
-		<p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+			  <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
             </div>
           </div>
         </div>
-</section>
-<script src="javascripts/scale.fix.js"></script>
-	<script type="text/javascript">
-		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-  	</script>
-   <script type = "text/javascript">
+		<script src="javascripts/scale.fix.js"></script>
+		<script type="text/javascript">
+			var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+			document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+		</script>
+   		 <script type = "text/javascript">
             try {
               var pageTracker = _gat._getTracker("todo-replaceme!!!");
-            pageTracker._trackPageview();
+              pageTracker._trackPageview();
             } catch(err) {
             	
             }
