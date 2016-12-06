@@ -1,0 +1,50 @@
+---
+layout: post
+title: "Topics from 2015"
+comments: true
+categories: intro
+---
+
+### Week
+**Week 1: Introduction**
+
+**Week 2: Choosing a paper and a demo of talk construction: //Optimism Pessimism//**
+* [https://www.dropbox.com/s/4jnpl393exn20h5/ISTS%20Bates%20Optimism%202014.11.17.pptx?dl=0 ppt]
+
+**Week 3: 12th October Tracey Ramsay - The Trait-Situation Debate**
+* From Personality and Assessment (1968) to Personality Science, 2009 
+* Mischel, Walter, Journal of Research in Personality, 2009, Vol.43(2), pp.282-290 [http://www.example.com doi:10.1016/j.jrp.2008.12.037]
+
+**Week 4- Jason: Personality influences on health and well being** 
+Wilson et al., (2015). Conscientiousness, Dementia Related Pathology, and Trajectories of Cognitive Aging. Psychology and Aging, 30 (1). Pp. 74-82. 
+(The paper isn't available from the DOI but it is available through the My Ed library). 
+ 
+Tom: Effortful Control
+Inzlicht, M. and Schmeichel, B.J. (2012) What is ego depletion? Toward a mechanistic revision of the resource model of self-control. Perspect. Psychol. Sci. 7, 450–463
+
+**Week 5 (Oct 26, 2015) - Caroline & Nicole**
+* Diener, E., Ng, W., Harter, J., & Arora, R. (2010). Wealth and happiness across the world: material prosperity predicts life evaluation, whereas psychosocial prosperity predicts positive feeling. Journal of personality and social psychology, 99(1), 52.
+* Caldwell-Harris, C. L., & Ayçiçegi, A. (2006). When personality and culture clash: The psychological distress of allocentrics in an individualist culture and idiocentrics in a collectivist culture. //Transcultural psychiatry, 43//, 331-361.[http://tps.sagepub.com/content/43/3/331.full.pdf pdf] [https://www.dropbox.com/s/gm29xcs0ljtxrn1/presentation1.ppt?dl=0 ppt] [https://www.dropbox.com/s/c90vkk7d4xxkgkt/culture%20summary.doc?dl=0 summary]
+
+** Week 6**
+* Bowling, N. A. (2010). Effects of Job Satisfaction and Conscientiousness on Extra-Role Behaviours. Journal of Business Psychology, 25, 119-130.
+* [http://differentialclub.wikidot.com/local--files/assigned-topics/Daniel%20work%20and%20C.pdf Daniel pdf summary]
+
+**Week 7**:
+* 
+**Week 8**:
+Daniel Pizarro De Olazábal- [https://drive.google.com/file/d/0B2hBkNbtVAg8Q0ZHeEU5Z0ZQekxJcGhqcllFa0hvRHluNm40/view?usp=sharing pptx]
+[https://drive.google.com/file/d/0B2hBkNbtVAg8YWctcW80dVNYdXY0RHZJSkV0MmcyZkF1MmdJ/view?usp=sharing pdf-summary]
+* Strobel, M., Tumasjan, A. and Sporrle, M. (2011). Be yourself, believe in yourself, and be happy: self-efficacy as a mediator between personality factors and subjective well-being.  //Scandinavian Journal of Psychology//, **52**. 43-48. [http://dx.doi.org/10.1111/j.1467-9450.2010.00826.x doi]. [http://www.ncbi.nlm.nih.gov/pubmed/20497398 PMID]. [http://differentialclub.wikidot.com/local--files/assigned-topics/Self-efficacy%20as%20a%20mediator%20between%20personality%20factors%20and%20subjective%20well-being.pdf pdf]
+* Jonason, P., Wee. S., & Li. N. (2014). Competition, autonomy, and prestige: Mechanisms through which the Dark Triad predict job satisfaction. Personality and Individual Differences, 72, 112-116.[http://differentialclub.wikidot.com/local--files/assigned-topics/Jason%20etal%202014%20summary.docx doi]
+
+
+**Week 9** : Sai Pranav
+Gallagher S(2000). Philosophical conceptions of self: implications for cognitive science. //Trends in Cognitive Sciences – Vol. 4, No. 1,
+January 2000, Pg 14-21//  [https://drive.google.com/file/d/0B2hBkNbtVAg8TE9HVnV6RnBDVU0/view?usp=sharing ppt]
+**Week 10** 
+**Week 11**
+
+**nb:** Shuffle and rename the item to show when you'd like to present: DON'T overwrite other people's earlier choices: first come first served
+
+[[[assigned-topic-archive]]]

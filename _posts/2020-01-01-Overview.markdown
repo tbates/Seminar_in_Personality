@@ -1,0 +1,115 @@
+---
+layout: post
+title: "Course Overview"
+comments: true
+categories: intro
+---
+
+<a name="top"></a>
+
+Overview of the course [Seminar in Personality](http://www.drps.ed.ac.uk/current/dpt/cxpsyl11075.htm)
+
+This is a core-course in the MSc [http://www.drps.ed.ac.uk/current/dpt/ptmscpychi1f.htm Psychology of Individual Differences]
+
+* [Intro Slide show](https://www.dropbox.com/s/09y9jf8naikr2h8/class%202014-15%20intro%20to%20MSc%20PID.pptx?dl=0)
+* Meeting times are shown in the [http://www.drps.ed.ac.uk/current/dpt/cxpsyl11075.htm DRPS link]
+* Assessment deadline is 19th Jan (Marks due back 9th Feb)
+* [https://www.dropbox.com/s/w58p57pkze6zv23/Course%20guide%20db.docx Course guide] (word)
+* [https://www.dropbox.com/s/bpi3csb2dzfjt9u/Major%20Assessment%20Research%20proposal.docx?dl=0 Assignment guide] (word)
+
+The syllabus is based around a list of big ideas in personality each listed with core readings. Each week, we will read and discuss one of these topics, as selected by you: the students.
+
+Topics covered can include:
+
+1. The structure of personality
+2. Personality development: Parents, peers, and life-outcomes
+3. Genetics and personality.
+4. Positive psychology: influences on health, well-being, and psychopathology
+5. What behaviors are linked to each personality domain?
+6. Personality in the workplace
+7. Personality and culture
+8. Evolutionary psychology and individual differences.
+9. Personality in non-human animals
+10. Traits and situations
+
+
+## Refs
+1. http://www.psy.ed.ac.uk/people/iand/Bartholomew%20%282009%29%20Br%20J%20Math%20Stat%20Psychol%20factor%20scores%20Thomson%20Spearman%20Bartlett.pdf
+
+
+
+
+### Structure of the course
+
+| ~ Week     | ~ Task                                                                                                                                    |
+|:-----------|:------------------------------------------------------------------------------------------------------------------------------------------|
+| Week 2     | Overview                                                                                                                                  |
+| Week 3     | Bring us paper/we give example [https://www.dropbox.com/s/6funbs4nlj4egcx/2012.02.03%20Does%20school%20make%20you%20smarter%3F.pptx e.g.] |
+| Week 5     | Break                                                                                                                                     |
+| Weeks 5-7  | Talks                                                                                                                                     |
+| Week 8     | Help with grant review/big assessment item                                                                                                |
+| Weeks 9-10 | Talks                                                                                                                                     |
+| Week 11    | Overview, wrap-up                                                                                                                         |
+
+
+### Assessment
+
+Three elements contribute to your mark:
+
+1. 30% class
+	* 10% for summary.
+	* 10% for your presentation.
+	* 10 % for participation.
+2. 70% final paper (Aims and background section of a grant proposal).
+
+### Weekly discussion
+Each week one of you will lead a discussion. You will need to choose one or more papers to discuss. You should then communicate these to the course organizers who will determine whether they are suitable. You will then write a 1-2 page summary using the “In Course Presentation” guide. Finally, the week before your presentation you will email the pdfs to us. On the week of your presentation you will hand out your summary, walk people through the summaries, and lead the discussion that follows. 
+We will have one to two presentations each week. The discussion of the paper or papers you choose will take approximately one hour. 
+
+Below we list several “big topics” and the major papers that have contributed to the scientific debate on these topics. You might well pick one of these papers for your topic. Alternatively, you can use these as a guide to find recent papers that address the topic.
+ 
+* [Personality structure]()
+* [Measurement of personality]()
+* [Psychopathology]()
+* [Effortful control]()
+* [Personality influences on health & well-being]()
+* [Business|Business(e.g Leadership, Entrepreneurship etc) and Personality]()
+* [Genetic and familial influences on personality]()
+* [Personality change and development]()
+* [Personality in non-human animals]()
+* [Evolutionary psychology of personality]()
+* [Personality and culture]()
+* [The trait-situation debate]()
+* [Alternatives to traits]()
+* [Philosophical ideas about identity]()
+
+**Who's assigned to what**
+When you choose a topic, please [https://docs.google.com/document/d/1-fig7hfRKLebcHXXgjzmayVlHjdZ4h5P-S5x-jXVTeI/edit# edit this google doc].
+
+### Understanding personality
+#### A good check of whether we understand personality, is the ability to predict the behaviors it causes.
+
+ * Try your hand at [https://docs.google.com/document/d/1_IFq-FSlid059wMpi-tlhANdh7qexXpqRt0U7lQ3vKg/edit writing behavior items] in this google doc.
+ * What behaviours differentiate hi/lo people on N,E,O,A,C? e.g. do hi-C people fold their underwear (and low C not, and other dimensions don't affect this?
+ * What would an extrovert/introvert or stable vs unstable or conscientious vs unconscientious person find hard to do/not do?
+
+### How is personality measured?
+
+Here are some of the measures we will use in the course. You should log in (use your matriculation ID) and take them. Again: Seeing exactly what is in a questionnaire avoids the [jingle-jangle fallacy](https://en.wikipedia.org/wiki/Jingle-jangle_fallacies) and promotes insight.
+
+[Know your own personality](http://subjectpool.com/quest/list/y4.php)
+
+### Journals
+
+* [Personality and Individual Differences](https://en.wikipedia.org/wiki/Personality_and_Individual_Differences)
+* [Journal of Personality and Social Psychology](https://en.wikipedia.org/wiki/Journal_of_Personality_and_Social_Psychology), 
+* [Journal of Personality](https://en.wikipedia.org/wiki/Journal_of_Personality), 
+* [Journal of Research in Personality](https://en.wikipedia.org/wiki/Journal_of_Research_in_Personality), 
+* [Behavioral and Brain Sciences](https://en.wikipedia.org/wiki/Behavioral_and_Brain_Sciences), 
+* [Behavior Genetics](https://en.wikipedia.org/wiki/Behavior_Genetics), 
+* [European Journal of Personality](https://en.wikipedia.org/wiki/European_Journal_of_Personality), 
+* [Personality and Social Psychology Bulletin](https://en.wikipedia.org/wiki/Personality_and_Social_Psychology_Bulletin)],
+* [many](https://en.wikipedia.org/wiki/Category:Differential_psychology_journals)
+* [more](https://en.wikipedia.org/wiki/Category:Personality_journals)
+
+### Datasets you can use!
