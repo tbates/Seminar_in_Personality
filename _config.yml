@@ -1,9 +1,12 @@
-repository: "tbates/Seminar_in_Personality/"
-# Note - if you enable this, use jekyll --baseurl '/' to view locally
-baseurl: "/Seminar_in_Personality/"  # the subpath of your site, e.g. /blog/
-url: "http://tbates.github.io/" # the base hostname & protocol for your site
-
-# Name of your blog (this will show up at the top of your page and in the RSS feed)
-name: "Advanced Personality"
-# Short description (goes below the title; it will also be used in the RSS feed)
-description: "Advanced topics in personality science"
+# Site settings
+title: Seminar in Personality
+email: tim.bates@ed.ac.uk
+description: > # this means to ignore newlines until "baseurl:"
+  Personality, from measurement of the the five factor model,
+  to outcomes in work, family, culture, and the clinic.
+baseurl: /Seminar_in_Personality # the subpath of your site, e.g. /blog
+url: "https://tbates.github.io/"
+twitter_username: timothycbates
+github_username:  tbates
+# Build settings
+exclude: ["README.md"]
