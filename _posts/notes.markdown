@@ -8,5 +8,5 @@ categories: notes
 <a name="top"></a>
 ## MSc  stats notes
 
-https://github.com/tbates/Seminar_in_Personality
-http://tbates.github.io/Seminar_in_Personality
+[git page](https://github.com/tbates/Seminar_in_Personality)
+[course page](http://tbates.github.io/Seminar_in_Personality)
