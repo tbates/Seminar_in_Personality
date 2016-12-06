@@ -1,9 +1,9 @@
-repository: "tbates/Multivariate-Stats-Course"
-url: "https://tbates.github.io/"
+repository: "tbates/Seminar_in_Personality/"
 # Note - if you enable this, use jekyll --baseurl '/' to view locally
-baseurl: "/Seminar_in_Personality"
+baseurl: "/Seminar_in_Personality/"  # the subpath of your site, e.g. /blog/
+url: "http://tbates.github.io/" # the base hostname & protocol for your site
 
 # Name of your blog (this will show up at the top of your page and in the RSS feed)
-name: Advanced Personality
+name: "Advanced Personality"
 # Short description (goes below the title; it will also be used in the RSS feed)
 description: "Advanced topics in personality science"
