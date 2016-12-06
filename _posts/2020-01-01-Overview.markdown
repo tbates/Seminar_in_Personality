@@ -33,12 +33,6 @@ Topics covered can include:
 10. Traits and situations
 
 
-## Refs
-1. http://www.psy.ed.ac.uk/people/iand/Bartholomew%20%282009%29%20Br%20J%20Math%20Stat%20Psychol%20factor%20scores%20Thomson%20Spearman%20Bartlett.pdf
-
-
-
-
 ### Structure of the course
 
 | ~ Week     | ~ Task                                                                                                                                    |
@@ -84,12 +78,13 @@ Below we list several “big topics” and the major papers that have contribute
 * [Philosophical ideas about identity]()
 
 **Who's assigned to what**
-When you choose a topic, please [https://docs.google.com/document/d/1-fig7hfRKLebcHXXgjzmayVlHjdZ4h5P-S5x-jXVTeI/edit# edit this google doc].
+
+When you choose a topic, please edit this [google doc](https://docs.google.com/document/d/1-fig7hfRKLebcHXXgjzmayVlHjdZ4h5P-S5x-jXVTeI/edit#).
 
 ### Understanding personality
 #### A good check of whether we understand personality, is the ability to predict the behaviors it causes.
 
- * Try your hand at [https://docs.google.com/document/d/1_IFq-FSlid059wMpi-tlhANdh7qexXpqRt0U7lQ3vKg/edit writing behavior items] in this google doc.
+ * Try your hand at [writing behavior items](https://docs.google.com/document/d/1_IFq-FSlid059wMpi-tlhANdh7qexXpqRt0U7lQ3vKg/edit) in this google doc.
  * What behaviours differentiate hi/lo people on N,E,O,A,C? e.g. do hi-C people fold their underwear (and low C not, and other dimensions don't affect this?
  * What would an extrovert/introvert or stable vs unstable or conscientious vs unconscientious person find hard to do/not do?
 
@@ -113,3 +108,6 @@ Here are some of the measures we will use in the course. You should log in (use 
 * [more](https://en.wikipedia.org/wiki/Category:Personality_journals)
 
 ### Datasets you can use!
+
+## Refs
+1. http://www.psy.ed.ac.uk/people/iand/Bartholomew%20%282009%29%20Br%20J%20Math%20Stat%20Psychol%20factor%20scores%20Thomson%20Spearman%20Bartlett.pdf
