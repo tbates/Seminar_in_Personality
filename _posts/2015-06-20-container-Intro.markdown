@@ -1,26 +1,17 @@
 ---
 layout: post
-title: "Collected Introductory Multivariate pages"
-date: 2015-06-20 00:00
+title: "Contents"
 comments: true
 categories: lecture
 ---
 
 <a name="top"></a>
 
-Articles on the basic principles and practice of Multivariate Statistics - suitable for new-comers and beginners.
+Landmark articles on personality
 
-Core functions in R that you need to memorise.
+Core ideas in personality that you need to memorise.
 
 Core building blocks in statistics that you need to memorize.
-
-Sampling error of the mean:
-
-```splus
- var(df$yourVar)/sqrt(length(df$yourVar))
-    
-```
-Critical statistics are the ratio of an effect size compared to a sampling error. For instance, t = ES / SE
 
 <ul>
   {% for post in site.categories.intro %}
